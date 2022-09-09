@@ -1,0 +1,3 @@
+1. A directoy is a place in which files are stored and organized so they can be retreived later.
+2. VCSs are useful in that they can show what changes have been made so that you can keep track of what has been done and you can return to a prevoius state if a certain change that was made was undesirable.
+3. My favorite artistic medium to consume is anime because I find that stories told in this art form can be more whimsical than traditional film. My favorite to create is screenplays, as I find this to be the easiest for me to produce on a larger scale than other artisitic mediums.
