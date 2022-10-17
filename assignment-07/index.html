@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Grizzly Gardens
+    </title>
+    <!-- Define character set -->
+    <meta charset="UTF-8">
+    <!-- Provide description of page -->
+    <meta name="description" content="a webpage for Grizzly Gardens wedding venue">
+    <!-- Provide author information for page -->
+    <meta name="author" content="Coby Sena">
+    <!-- Add viewport attribute -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+      body {background-color: #0DDC4C}
+    </style>
+</head>
+
+<body>
+    <img src="images/Grizzly_Gardens.png" width="406" alt="The logo for Grizzly Gardens" title="Grizzly Gardens Logo" />
+   <h1>
+        Contact
+    </h1>
+    <p><a href="senapart1@gmail.com">Send an email!</a></p>
+    <address>
+        Grizzly Gardens<br />
+        2000 Grizzly Gulch Dr<br />
+        Helena, MT 59601<br />
+        (406) 594-0584<br />
+    </address>
+    <p>
+        <table>
+            <tr>
+                <th>Appointment Availability</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>11 am - 4 pm</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>11 am - 4 pm</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>2 pm - 5 pm</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>10 am - 1 pm</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>11 am - 4 pm</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td>10 am - 5 pm</td>
+            </tr>
+            <tr>
+                <td>Sunday</td>
+                <td>10 am - 5 pm</td>
+            </tr>
+        </table>
+    </p>
+    <h1>
+      Want to book an appointment? Leave us your information below!
+    </h1>
+    <form method="POST" action="index.html">
+             Name:<br/>
+             <input type="text" id="name" placeholder="Enter your name" autofocus>
+             <p>
+             Phone Number:<br/>
+             <input type="text" name="phone number" id="phone-number" placeholder="(012)-345-6789" maxlength="14" size="14" />
+             <br/>
+             <br/>
+             Appointment Length?
+             <br/>
+             1 Hour <input type="radio" name="newsletter" id="newsletter" value="1">
+             <br/>
+             2 Hours <input type="radio" name="newsletter" id="newsletter" value="2">
+             <br />
+             <br/>
+             Additional Questions?
+             <br/>
+             <br/>
+             <textarea name="comments" id="comments" rows="10" cols="30"></textarea>
+             <br/>
+             <br/>
+             <input type="image" src="images/button.jpg" width="200"/>
+             </p>
+
+    </form>
+</body>
+
+</html>
