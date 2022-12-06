@@ -1,0 +1,5 @@
+1. The user testing went as well as I could have probably made it. What I presented to my testers was a pretty rough draft, so there wasn't a lot a things that they could test for in practice, however both were very willing to listen to what I had planned for the site and talk through things that they thought would and would not work with my thought process.
+
+2. I primarily wanted to make sure that I changed the header and the buttons per the feedback I got because they were the two big areas of overlap between my two testers. Once they've been figured out I can start messing around with aesthetic choice like color theme and texture backgrounds, and placement to a certain degree, once these are more concretely figured out.
+
+P.S. My apologies for the late submission, I didn't check the week 14 content until the end of the week, so I did not see the note that both week 13 and 14 were due at the same time until it was already very late. I was able to conduct my usability tests last night, but I didn't really have time to properly work on the site until tonight.
